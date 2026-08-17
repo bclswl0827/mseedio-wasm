@@ -1,0 +1,3 @@
+[submodule "lib/libmseed"]
+	path = lib/libmseed
+	url = https://github.com/EarthScope/libmseed.git

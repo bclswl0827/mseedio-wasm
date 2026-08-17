@@ -1,0 +1,6 @@
+package types
+
+const (
+	NSTERROR int64 = -2145916800000000000
+	NSTUNSET int64 = -2145916799999999999
+)

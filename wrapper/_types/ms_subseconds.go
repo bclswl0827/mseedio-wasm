@@ -1,0 +1,13 @@
+package types
+
+type MS_SUBSECONDS int
+
+const (
+	NONE MS_SUBSECONDS = iota
+	MICRO
+	NANO
+	MICRO_NONE
+	NANO_NONE
+	NANO_MICRO
+	NANO_MICRO_NONE
+)
